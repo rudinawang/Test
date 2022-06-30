@@ -1,0 +1,52 @@
+#main{
+    background-color: aqua;
+}
+.h1-container{
+    background-color: white;
+    border-style: solid ;
+    border-width: 10px;
+    border-color: black ;
+    border-radius: 40px;
+    padding: 20px ;
+    margin: 20px 20px;
+    position: fixed;
+    position:sticky;
+    left: 80px;
+    display: inline-block;
+
+
+}
+
+.hello{
+    color:chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: medium;
+    text-decoration: underline;
+
+    font-variant: small-caps;
+    font-style: italic;
+    text-shadow: 5px  ;
+
+}
+
+.para{
+    color:blue;
+    font-size: 20px;
+    font-family: Times New Roman;
+    font-variant: small-caps;
+    
+}
+
+#main{
+    background-image: url("Image/v.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.div-box{
+    background-color: lightblue;
+}
+
+
+
+
+
